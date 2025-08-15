@@ -3,7 +3,7 @@ Configuration file for RYSTRIX AI Telegram Bot
 """
 
 # Bot Configuration
-BOT_TOKEN = "8233959472:AAEtrsMMo72NgjfU99V55pzkNSE3dGeWWnY"
+BOT_TOKEN = "8233959472:AAENEqqWtCtPamfshy9b8rxBIsVks99tXAU"
 ADMIN_ID = 7673097445
 
 # API Configuration
